@@ -1,0 +1,24 @@
+{
+  "seed": "38670993",
+  "name": "#95",
+  "description": "Metaverse terrain for NFTs",
+  "image": "forts.eth/95.bmp",
+  "terrain": [
+    {
+      "trait type": "mountain",
+      "value": 13.83
+    },
+    {
+      "trait type": "trees",
+      "value": 10.15
+    },
+    {
+      "trait type": "grass",
+      "value": 7.96
+    },
+    {
+      "trait type": "sand",
+      "value": 6.76
+    }
+  ]
+}
