@@ -1,9 +1,10 @@
 {
-  "seed": "38639981",
+  "dna": "38639981",
   "name": "#20",
   "description": "Metaverse terrain for NFTs",
-  "image": "forts.eth/20.bmp",
-  "terrain": [
+  "image": "https://raw.githubusercontent.com/cryptonft/metaverse/main/maps/20.bmp",
+  "edition": 1,
+  "attributes": [
     {
       "trait type": "mountain",
       "value": 14.68
