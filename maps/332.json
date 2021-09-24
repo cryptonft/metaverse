@@ -1,0 +1,25 @@
+{
+  "dna": 136773409,
+  "name": "Map #332",
+  "description": "Metaverse terrain for NFTs",
+  "image": "https://raw.githubusercontent.com/cryptonft/metaverse/main/maps/332.bmp",
+  "edition": 1,
+  "attributes": [
+    {
+      "trait_type": "Mountain",
+      "value": 12.14
+    },
+    {
+      "trait_type": "Trees",
+      "value": 8.74
+    },
+    {
+      "trait_type": "Grass",
+      "value": 8.32
+    },
+    {
+      "trait_type": "Sand",
+      "value": 7.72
+    }
+  ]
+}
