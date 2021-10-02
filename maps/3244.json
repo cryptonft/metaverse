@@ -20,6 +20,10 @@
     {
       "trait_type": "Sand",
       "value": 8
+    },
+    {
+      "trait_type": "Purple Gem",
+      "value": 4
     }
   ]
 }
