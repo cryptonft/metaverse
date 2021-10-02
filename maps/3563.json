@@ -3,27 +3,32 @@
   "name": "Map #3563",
   "description": "Metaverse terrain for NFTs",
   "image": "https://raw.githubusercontent.com/cryptonft/metaverse/main/maps/3563.png",
-  "edition": 1,
   "attributes": [
     {
       "trait_type": "Mountain",
-      "value": 14.37
+      "value": 14.37,
+      "order": 3
     },
     {
       "trait_type": "Trees",
-      "value": 12.29
+      "value": 12.29,
+      "order": 2
     },
     {
       "trait_type": "Grass",
-      "value": 12.08
+      "value": 12.08,
+      "order": 1
     },
     {
       "trait_type": "Sand",
-      "value": 8.16
+      "value": 8.16,
+      "order": 0
     },
     {
-      "trait_type": "Purple Gem",
-      "value": 0
+      "display_type": "boost_number",
+      "trait_type": "Gems",
+      "value": 0,
+      "order": 4
     }
   ]
 }
