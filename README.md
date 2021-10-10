@@ -1,2 +1,2 @@
-# have fun
+# enjoy
 
