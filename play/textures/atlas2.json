@@ -5,12 +5,12 @@
 		"scale": "1"
 	},
 	"frames": {
-		"player_jump.png":
+		"player_stand.png":
 		{
-			"frame": {"x":110,"y":1,"w":256,"h":512},
+			"frame": {"x":70,"y":1,"w":300,"h":600},
 			"rotated": false,
 			"trimmed": false,
-			"spriteSourceSize": {"x":0,"y":0,"w":256,"h":512},
+			"spriteSourceSize": {"x":0,"y":0,"w":600,"h":600},
 			"sourceSize": {"w":600,"h":600}
 		}
 	}
