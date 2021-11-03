@@ -1,0 +1,25 @@
+{
+	"meta": {
+		"image": "atlas.png",
+		"size": {"w":64,"h":64},
+		"scale": "1"
+	},
+	"frames": {
+		"player_jump.png":
+		{
+			"frame": {"x":1,"y":1,"w":64,"h":64},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+			"sourceSize": {"w":64,"h":64}
+		},
+		"player_stand.png":
+		{
+			"frame": {"x":1,"y":1,"w":64,"h":64},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+			"sourceSize": {"w":64,"h":64}
+		}
+	}
+}
