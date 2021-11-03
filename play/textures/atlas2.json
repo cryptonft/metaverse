@@ -1,17 +1,17 @@
 {
 	"meta": {
 		"image": "atlas.png",
-		"size": {"w":512,"h":512},
+		"size": {"w":600,"h":600},
 		"scale": "1"
 	},
 	"frames": {
 		"player_jump.png":
 		{
-			"frame": {"x":128,"y":1,"w":256,"h":512},
+			"frame": {"x":110,"y":1,"w":256,"h":512},
 			"rotated": false,
 			"trimmed": false,
 			"spriteSourceSize": {"x":0,"y":0,"w":256,"h":512},
-			"sourceSize": {"w":256,"h":512}
+			"sourceSize": {"w":600,"h":600}
 		}
 	}
 }
