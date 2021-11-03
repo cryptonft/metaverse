@@ -7,7 +7,7 @@
 	"frames": {
 		"player_stand.png":
 		{
-			"frame": {"x":70,"y":1,"w":300,"h":600},
+			"frame": {"x":70,"y":1,"w":460,"h":600},
 			"rotated": false,
 			"trimmed": false,
 			"spriteSourceSize": {"x":0,"y":0,"w":600,"h":600},
