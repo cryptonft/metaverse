@@ -7,7 +7,7 @@
 	"frames": {
 		"player_jump.png":
 		{
-			"frame": {"x":1,"y":1,"w":30,"h":30},
+			"frame": {"x":1,"y":1,"w":20,"h":20},
 			"rotated": false,
 			"trimmed": false,
 			"spriteSourceSize": {"x":1,"y":1,"w":30,"h":30},
