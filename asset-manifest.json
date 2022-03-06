@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.80a54bf1.chunk.css",
-    "main.js": "/static/js/main.db4a7899.chunk.js",
-    "main.js.map": "/static/js/main.db4a7899.chunk.js.map",
+    "main.js": "/static/js/main.ed9c0e56.chunk.js",
+    "main.js.map": "/static/js/main.ed9c0e56.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c31d5670.js",
     "runtime-main.js.map": "/static/js/runtime-main.c31d5670.js.map",
     "static/css/2.f2512455.chunk.css": "/static/css/2.f2512455.chunk.css",
@@ -24,7 +24,7 @@
     "static/media/asteroid.1f9a2fe6.svg": "/static/media/asteroid.1f9a2fe6.svg",
     "static/media/design-tool.a7d6dbc6.svg": "/static/media/design-tool.a7d6dbc6.svg",
     "static/media/hero-img.734246ce.png": "/static/media/hero-img.734246ce.png",
-    "static/media/newDemo.66ba871a.png": "/static/media/newDemo.66ba871a.png",
+    "static/media/newDemo.c97104c3.png": "/static/media/newDemo.c97104c3.png",
     "static/media/paint-palette.7a5f584a.svg": "/static/media/paint-palette.7a5f584a.svg",
     "static/media/vector.fa8c83fc.svg": "/static/media/vector.fa8c83fc.svg"
   },
@@ -33,6 +33,6 @@
     "static/css/2.f2512455.chunk.css",
     "static/js/2.dae74aed.chunk.js",
     "static/css/main.80a54bf1.chunk.css",
-    "static/js/main.db4a7899.chunk.js"
+    "static/js/main.ed9c0e56.chunk.js"
   ]
 }
